@@ -3,6 +3,10 @@
 Welcome to my GitHub profile! I’m passionate about cybersecurity, network forensics, incident response, and risk/compliance. Here you’ll find my hands-on projects, research, and write-ups from my journey in the field, more projects will be included soon, keep an eye out!
 ## 🔒 Featured Cybersecurity Projects
 
+- [Hybrid quishing detection](https://github.com/ErikTheHunter/quishing_project)
+  - Final Masters Thesis, whre i created a hybrid quishing detection using 3 detection methods. Read the final thesis and check code to cross-reference.
+
+
 - [**Network-Security-and-forensics.**](https://github.com/ErikTheHunter/Network-Security-and-forensics.)
   - Masters projects I worked on in network security, including practical labs and theoretical research in network forensics and security analysis.
 
