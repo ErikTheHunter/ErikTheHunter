@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I’m passionate about cybersecurity, network fore
 
 ## 🛡️ About Me
 
-- 🔍 Interested in digital forensics, threat intelligence, SOC operations, and cyber risk management.
-- 🎓 Masters-level experience in cybersecurity.
-- 📚 Always learning and sharing knowledge through hands-on projects.
+-  Interested in digital forensics, threat intelligence, SOC operations, and cyber risk management.
+-  Masters-level experience in cybersecurity.
+-  Always learning and sharing knowledge through hands-on projects.
 
 ---
 
